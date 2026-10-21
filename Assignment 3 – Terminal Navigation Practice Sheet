@@ -1,0 +1,33 @@
+Assignment 3 – Terminal Navigation Practice Sheet
+
+Terminal Navigation Practice Sheet
+1. Basic Terminal Commands
+Command           	Use
+pwd	Show            current directory
+ls	                List files and folders (Linux/macOS)
+dir	                List files and folders (Windows CMD)
+cd                  foldername	Open a folder
+cd ..             	Go back one folder
+mkdir foldername	  Create a new folder
+cls               	Clear the terminal (Windows)
+cd	                Display current directory in Windows CMD
+
+3.  Practice exercise
+Starting from your home directory, do the following and write down every command used:
+
+1. Create website/ containing index.html, css/style.css, images/.
+2. Go into css, then return to website with a single command (cd ..).
+3. List everything recursively: ls -R.
+4. Rename index.html to home.html, then rename it back.
+5. Open the folder in VS Code.
+
+3. Practice Tasks
+1. Open the terminal in VS Code.
+2. Check your current location.
+3. List all files and folders.
+4. Create a folder named Assignment2.
+5. Open the Assignment2 folder.
+6. Go back to the previous folder.
+7. Clear the terminal.
+
+Note: In PowerShell, ls and pwd also work.
